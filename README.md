@@ -2,6 +2,8 @@
 
 Changes made on Github
 
+Adding new on PC main
+
 Now I have made a change
 
 This is the readme on pc that I want to keep.
